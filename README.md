@@ -1,6 +1,6 @@
 # Power BI Version Control with Git, GitHub, Fabric and Azure
 
-This example demonstrates how to use Git and GitHub to version control Power BI files (`.pbip`) and manage them in GitHub, Fabric and Azure repositories.
+This example demonstrates how to use Git and GitHub to version control Power BI files **New (`.pbip`)** and manage them in GitHub, Fabric and Azure repositories.
 
 ## Prerequisites
 
